@@ -8,3 +8,5 @@ Created on Thu Jun 13 20:19:58 2019
 x=9
 x
 print(x)
+y=10
+y
